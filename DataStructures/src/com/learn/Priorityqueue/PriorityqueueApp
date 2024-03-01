@@ -1,0 +1,3 @@
+PriorityQueue is used to store the homogenious data in the Queue type of collection framework.
+This is present in the java.util package.we wont store the hetrogenious data.and
+it will display the smallest element in the first position.

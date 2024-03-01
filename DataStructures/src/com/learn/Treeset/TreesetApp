@@ -1,0 +1,8 @@
+TreeSet is used to store the values in the "set" type of collection framework.
+which is present in the java.util package.It will display the element in the format of ascending Order.
+It wont allow the duplicate values.If in case insert the duplicate values in the list it will display the values at once.
+
+
+
+
+

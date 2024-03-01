@@ -1,0 +1,4 @@
+ArrayDeque is used to store the hetrogenious data in the list.which is present in the java.util package.
+It is used to store the element in the rare end by using add() method (OR) addLast() method  and 
+store the element in the first position by using addFirst() method.
+It does not traversing the data by using for loop because it does not have any indexes.

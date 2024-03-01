@@ -1,0 +1,4 @@
+HashSet is used to store the heterogeneous data in the hash type of collection framework.
+It is present in the java.util package.It does not maintain order of insertion and it wont allowed duplicate values.
+It contains unique memory location in the hash table. 
+we does not traversing the element  by using normal for loop because it does not contain any indexes.

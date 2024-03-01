@@ -1,0 +1,7 @@
+Stack Data Structure is used to insert the element orderly and deleting the element orderly.
+push method is used to store the element in the stack .
+pop method is used to delete the element in the stack in the below order.
+
+					First In and Last Out
+							(or)
+					Last In and First Out

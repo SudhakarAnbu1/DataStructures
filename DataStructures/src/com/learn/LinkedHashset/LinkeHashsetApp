@@ -1,0 +1,3 @@
+LinkedHashSet is used to the heterogeneous data.It will present in the java.util package.
+We wont allow to access the element by using the normal for loop because it will not contain any indexes.
+Duplicates are not allowed in LinkedHashSet.It will maintain order of insertion.
